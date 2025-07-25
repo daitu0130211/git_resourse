@@ -19,4 +19,4 @@ git status
 git commit -m "提交说明"
 
 
-### 通过git desktop 提交文件(提交到仓库)
+### 通过git desktop 同步资源项目(提交到仓库)
