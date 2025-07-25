@@ -17,3 +17,6 @@ git status
 
 ### 提交文件(提交到仓库)
 git commit -m "提交说明"
+
+
+### 通过git desktop 提交文件(提交到仓库)
